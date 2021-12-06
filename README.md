@@ -1,3 +1,4 @@
+![logo-image](https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2840&q=80)
 - 👋 Hi, I’m @perkea
 - 👀 I’m interested in ...software development, web design.
 - 🌱 I’m currently learning ...
